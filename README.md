@@ -1,5 +1,4 @@
-# ut-google-bigquery
-<h1 id="Introduction" data-renderer-start-pos="1286">Introduction</h1>
+
 <p data-renderer-start-pos="1300">This Universal Task&nbsp;allows&nbsp;Stonebranch&nbsp;users&nbsp;to schedule, trigger, monitor, and orchestrate the Google BigQuery process&nbsp;directly&nbsp;from the Universal&nbsp;Controller.&nbsp;&nbsp;</p>
 <h1 id="Overview" data-renderer-start-pos="1464">Overview</h1>
 <ul class="ak-ul" data-indent-level="1">
